@@ -21,4 +21,4 @@ Just run the flashesp.sh file ,make sure you select appropriate USB port in espf
 
 to which your USB-TTL Converter is Connected.. 
 
-Make sure to reset the chip When you see " Conecting...... " 
+Make sure to reset the chip When you see " Connecting...... " 
